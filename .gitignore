@@ -3,3 +3,5 @@
 ################################################################################
 
 /BulkCosmos/obj
+/BulkCosmos/bin/Debug/netcoreapp3.1
+/BulkCosmos/.vs/BulkCosmos
